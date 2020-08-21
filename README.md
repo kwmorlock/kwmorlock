@@ -1,8 +1,8 @@
-### Welcome to my Github, feel free to snoop around!👀 
+<p align="center"><b> Welcome to my Github, feel free to snoop around!👀  <b/></p>
 
-### Full stack developer with a passion for giving back. Want to make the world a better place with code? Hit me up and lets get to work!
+<p><b> Full stack developer with a passion for giving back. Want to make the world a better place with code? Hit me up and lets get to work! </b></p>
 
-### Skills include, but are not limited to React | Redux | Node.js | Javascript | Python | APIs | OOP | Algorithms | Data Structures | Deployment | Git | REST | SQL | Security | Unit testing | Jest | Cypress | HTML | CSS | LESS
+<p><b> Skills include, but are not limited to React | Redux | Node.js | Javascript | Python | APIs | OOP | Algorithms | Data Structures | Deployment | Git | REST | SQL | Security | Unit testing | Jest | Cypress | HTML | CSS | LESS </b></p>
 
 
 - 🔭 I’m currently working on a non-profit project for SaverLife as a full stack developer.
