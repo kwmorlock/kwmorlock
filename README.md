@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on a non-profit project for SaverLife as a full stack developer.
 - 💬 Feel free to ask me about anything, I'm definitly an open book! 
 - 💻 Connect with me [LinkedIn](https://www.linkedin.com/in/kenzie-morlock/) [Twitter](https://twitter.com/KMCodes)
-- ⚡ Fun fact: I can lick my elbow!!! 
 
 <p align="center">
   <img src="https://images.unsplash.com/photo-1564190648896-9ee1887da423?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"/>
