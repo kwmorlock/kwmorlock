@@ -1,4 +1,4 @@
-<p align="center"><b> Welcome to my Github, feel free to snoop around!!!👀  <b/></p>
+<p align="center"><b> Welcome to my Github, feel free to snoop around!👀  <b/></p>
 
 <p><b> Full stack developer with a passion for giving back. Want to make the world a better place with code? Hit me up and lets get to work! </b></p>
 
