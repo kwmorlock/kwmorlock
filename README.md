@@ -5,7 +5,7 @@
 <p><b> Skills include, but are not limited to React | Redux | Node.js | Javascript | Python | APIs | OOP | Algorithms | Data Structures | Deployment | Git | REST | SQL | Security | Unit testing | Jest | Cypress | HTML | CSS | LESS </b></p>
 
 
-- 🔭 I’m currently working on a non-profit project for SaverLife as a full stack developer.
+- 🔭 I’m currently looking for work in New York or remote.
 - 💬 Feel free to ask me about anything, I'm definitly an open book! 
 - 💻 Connect with me [LinkedIn](https://www.linkedin.com/in/kwmorlock/)
 
