@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently looking for work in New York or remote.
 - 💬 Feel free to ask me about anything, I'm definitly an open book! 
-- 💻 Connect with me [LinkedIn](https://www.linkedin.com/in/kwmorlock/)
 
 <p align="center">
   <img src="https://images.unsplash.com/photo-1564190648896-9ee1887da423?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"/>
